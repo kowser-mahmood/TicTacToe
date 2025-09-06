@@ -121,6 +121,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       fontSize: 30,
                       fontWeight: FontWeight.bold,
                       color: winner == "X" ? Colors.blue : Colors.red,
+                      decoration: TextDecoration.none,
                     ),
                   ),
                 ),
@@ -178,7 +179,7 @@ class BuildButton extends StatelessWidget {
       padding: const EdgeInsets.all(5),
       child: ElevatedButton(
         onPressed: () => onTap(index),
-        style: ElevatedButton.styleFrom(fixedSize: const Size(120, 120)),
+        style: ElevatedButton.styleFrom(fixedSize: const Size(100, 100)),
         child: Text(
           text,
           style: const TextStyle(fontSize: 40, fontWeight: FontWeight.bold),
@@ -197,8 +198,10 @@ class ResetButton extends StatelessWidget {
   Widget build(BuildContext context) {
     return ElevatedButton(
       onPressed: onPressed,
-      child: const Text("Reset",
-          style: TextStyle(fontSize: 40, color: Colors.black)),
+      child: const Text(
+        "Reset",
+        style: TextStyle(fontSize: 40, color: Colors.black),
+      ),
     );
   }
 }
