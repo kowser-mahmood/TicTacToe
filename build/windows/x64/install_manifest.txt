@@ -1,0 +1,13 @@
+E:/flutter/tictac/build/windows/x64/runner/Debug/data/icudtl.dat
+E:/flutter/tictac/build/windows/x64/runner/Debug/flutter_windows.dll
+E:/flutter/tictac/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+E:/flutter/tictac/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin.json
+E:/flutter/tictac/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+E:/flutter/tictac/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+E:/flutter/tictac/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+E:/flutter/tictac/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+E:/flutter/tictac/build/windows/x64/runner/Debug/data/flutter_assets/NativeAssetsManifest.json
+E:/flutter/tictac/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES
+E:/flutter/tictac/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+E:/flutter/tictac/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+E:/flutter/tictac/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

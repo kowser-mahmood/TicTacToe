@@ -1,0 +1,3 @@
+C:\winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2\mingw64\bin\cmake.exe -E rm -f CMakeFiles\tictac.dir/objects.a
+C:\winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2\mingw64\bin\ar.exe qc CMakeFiles\tictac.dir/objects.a @CMakeFiles\tictac.dir\objects1.rsp
+C:\winlibs-x86_64-posix-seh-gcc-15.1.0-mingw-w64ucrt-13.0.0-r2\mingw64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\tictac.dir/objects.a -Wl,--no-whole-archive -o tictac.exe -Wl,--out-implib,libtictac.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\tictac.dir\linkLibs.rsp

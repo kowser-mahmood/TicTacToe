@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/flutter/tictac/build/cmake_install.cmake",
+		"E:/flutter/tictac/build/flutter/cmake_install.cmake",
+		"E:/flutter/tictac/build/runner/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

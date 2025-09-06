@@ -1,0 +1,28 @@
+^E:\FLUTTER\TICTAC\BUILD\WINDOWS\X64\CMAKEFILES\259B8F2DA5ED1DE220AE73DE2FC60042\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"G:\Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\km\dev\flutter PROJECT_DIR=E:\flutter\tictac FLUTTER_ROOT=C:\Users\km\dev\flutter FLUTTER_EPHEMERAL_DIR=E:\flutter\tictac\windows\flutter\ephemeral PROJECT_DIR=E:\flutter\tictac FLUTTER_TARGET=E:\flutter\tictac\lib\main.dart DART_DEFINES=RkxVVFRFUl9WRVJTSU9OPTMuMzUuMw==,RkxVVFRFUl9DSEFOTkVMPXN0YWJsZQ==,RkxVVFRFUl9HSVRfVVJMPWh0dHBzOi8vZ2l0aHViLmNvbS9mbHV0dGVyL2ZsdXR0ZXIuZ2l0,RkxVVFRFUl9GUkFNRVdPUktfUkVWSVNJT049YTQwMmQ5YTQzNw==,RkxVVFRFUl9FTkdJTkVfUkVWSVNJT049ZGRmNDdkZDNmZg==,RkxVVFRFUl9EQVJUX1ZFUlNJT049My45LjI= DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=E:\flutter\tictac\.dart_tool\package_config.json C:/Users/km/dev/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\FLUTTER\TICTAC\BUILD\WINDOWS\X64\CMAKEFILES\0DE6BD79C1EC250C0881E49A45AFB032\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\FLUTTER\TICTAC\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"G:\Visual Studio\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SE:/flutter/tictac/windows -BE:/flutter/tictac/build/windows/x64 --check-stamp-file E:/flutter/tictac/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
